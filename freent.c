@@ -4,4 +4,4 @@
 // for details.
 // 
 //   - Original OWL in English: https://github.com/freent-project/license-translations/raw/main/English/Original%20American%20English.license
-//   - Translations: https://github.com/freent-project/license-translations/blob/main/README.md#list-of-languages
+//   - Translations: https://github.com/freent-project/license-translations/blob/main/readme.md#list-of-languages
