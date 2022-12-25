@@ -2,6 +2,8 @@
 
 The OpenWindows vanilla kernel.
 
+[Discord](https://discord.gg/XKgS4VMmSA)
+
 ## Install
 
 ### OpenWindows
